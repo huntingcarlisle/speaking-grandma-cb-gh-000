@@ -14,7 +14,7 @@
 def speak_to_grandma(input)
   if input = 'I LOVE YOU GRANDMA!'
     
-  elsif input   
+  elsif input == input.upcase  
     
   end
 end
